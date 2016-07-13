@@ -14,6 +14,8 @@
 		9932251C1D20CBE2009FC871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9932251A1D20CBE2009FC871 /* LaunchScreen.storyboard */; };
 		993225271D20CBE2009FC871 /* calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993225261D20CBE2009FC871 /* calculatorTests.swift */; };
 		993225321D20CBE2009FC871 /* calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993225311D20CBE2009FC871 /* calculatorUITests.swift */; };
+		993225401D20CF5B009FC871 /* mh52egwp4ls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9932253F1D20CF5B009FC871 /* mh52egwp4ls.jpg */; };
+		993225421D20D05B009FC871 /* u=2539552976,4006656190&fm=11&gp=0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 993225411D20D05B009FC871 /* u=2539552976,4006656190&fm=11&gp=0.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		9932252D1D20CBE2009FC871 /* calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		993225311D20CBE2009FC871 /* calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculatorUITests.swift; sourceTree = "<group>"; };
 		993225331D20CBE2009FC871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9932253F1D20CF5B009FC871 /* mh52egwp4ls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mh52egwp4ls.jpg; path = ../../mh52egwp4ls.jpg; sourceTree = "<group>"; };
+		993225411D20D05B009FC871 /* u=2539552976,4006656190&fm=11&gp=0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "u=2539552976,4006656190&fm=11&gp=0.jpg"; path = "../../u=2539552976,4006656190&fm=11&gp=0.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				993225181D20CBE2009FC871 /* Assets.xcassets */,
 				9932251A1D20CBE2009FC871 /* LaunchScreen.storyboard */,
 				9932251D1D20CBE2009FC871 /* Info.plist */,
+				9932253F1D20CF5B009FC871 /* mh52egwp4ls.jpg */,
+				993225411D20D05B009FC871 /* u=2539552976,4006656190&fm=11&gp=0.jpg */,
 			);
 			path = calculator;
 			sourceTree = "<group>";
@@ -229,6 +235,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				993225401D20CF5B009FC871 /* mh52egwp4ls.jpg in Resources */,
+				993225421D20D05B009FC871 /* u=2539552976,4006656190&fm=11&gp=0.jpg in Resources */,
 				9932251C1D20CBE2009FC871 /* LaunchScreen.storyboard in Resources */,
 				993225191D20CBE2009FC871 /* Assets.xcassets in Resources */,
 				993225171D20CBE2009FC871 /* Main.storyboard in Resources */,
@@ -484,6 +492,7 @@
 				993225381D20CBE2009FC871 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		993225391D20CBE2009FC871 /* Build configuration list for PBXNativeTarget "calculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +501,7 @@
 				9932253B1D20CBE2009FC871 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9932253C1D20CBE2009FC871 /* Build configuration list for PBXNativeTarget "calculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +510,7 @@
 				9932253E1D20CBE2009FC871 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
